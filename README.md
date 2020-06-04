@@ -29,6 +29,13 @@ There are 3 ways we can make the HTTP requests using JS asynchronously
    
 # 2. Async and Await
 
+  1. Async
+                 
+         - It always returns a promise
+         - if the function returns a value then the promise will be resolved with that value
+         - if function thorws exception then it rejects the promise
+         
+
    
   
 
