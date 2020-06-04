@@ -26,7 +26,8 @@ There are 3 ways we can make the HTTP requests using JS asynchronously
      
      - This is a library which makes things very easy
      - Can be used in both frontend and backend(i.e NodejS)
-    
+   
+# 2. Async and Await
 
    
   
